@@ -2,6 +2,7 @@
   "name": "pepper-go",
   "version": "1.0.0",
   "description": "A Game Object lib",
+  "homepage": "https://github.com/luvinicius/pepper-go#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\" && exit 0",
@@ -17,13 +18,16 @@
     "Engine",
     "Lib"
   ],
-  "author": "Lucas Vinicius Pimenta",
+  "author": {
+    "name":"Lucas Vinicius Pimenta",
+    "url":"https://github.com/luvinicius"
+  },
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/luvinicius/pepper-go/issues"
   },
-  "homepage": "https://github.com/luvinicius/pepper-go#readme",
+
   "publishConfig": {
-    "@luvinicus:registry": "https://npm.pkg.github.com"
+    "@luvinicus:registry": "https://npm.pkg.github.com/@luvinicius"
   }
 }
