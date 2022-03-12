@@ -1,5 +1,5 @@
 {
-  "name": "pepper-go",
+  "name": "@luvinicius/pepper-go",
   "version": "1.0.0",
   "description": "A Game Object lib",
   "homepage": "https://github.com/luvinicius/pepper-go#readme",
@@ -28,6 +28,6 @@
   },
 
   "publishConfig": {
-    "@luvinicus:registry": "https://npm.pkg.github.com/@luvinicius"
+    "@luvinicus:registry": "https://npm.pkg.github.com"
   }
 }
