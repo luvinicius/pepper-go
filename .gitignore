@@ -1,0 +1,8 @@
+assets/*
+modules/*
+node_modules/*
+.vscode/settings.json
+npm-debug.log
+logs
+*.log
+.DS_Store
